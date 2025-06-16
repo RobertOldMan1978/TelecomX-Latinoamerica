@@ -1,3 +1,44 @@
+# 📉 Análisis de Abandono de Clientes en TelecomX
+
+Este proyecto analiza el comportamiento de abandono temprano de clientes en una compañía de telecomunicaciones. Utilizando Python y herramientas de análisis de datos, se estudia por qué los clientes se van de la empresa dentro de los primeros 7 meses, con el objetivo de diseñar estrategias efectivas de retención.
+
+## 🧠 Objetivo del proyecto
+
+Identificar los principales factores asociados al abandono de clientes en sus primeros meses de servicio, y proponer un framework de retención basado en datos reales.
+
+## 📦 Contenido del repositorio
+
+- `data/` → Datos utilizados para el análisis.
+- `notebooks/` → Análisis exploratorio y visualizaciones.
+- `report/` → Informe final con conclusiones y recomendaciones.
+- `README.md` → Descripción del proyecto y estructura general.
+
+## 📊 Herramientas utilizadas
+
+- `Python 3`
+- `pandas` para manipulación de datos
+- `numpy` para cálculos numéricos
+- `matplotlib` y `seaborn` para visualización
+
+## 📝 Resultados clave
+
+- El contrato “Month-to-month” y el uso de “Electronic check” son factores de riesgo.
+- La mayoría de los clientes que abandonan no contratan servicios adicionales.
+- Los abandonos tempranos ocurren por falta de fidelización, alto precio percibido y ausencia de valor añadido.
+
+## 💡 Propuesta
+
+Se formula un framework de retención basado en activación temprana, cambio de contrato, automatización de pagos y mejora de la experiencia en los primeros 90 días.
+
+## 🧪 Estado del proyecto
+
+✅ Análisis exploratorio completo  
+✅ Visualizaciones de datos generadas  
+✅ Recomendaciones estratégicas formuladas  
+⬜ Implementación de modelo predictivo (opcional a futuro)
+
+
+
 # 📘 Informe Integral: Análisis y Retención de Clientes en Riesgo Temprano
 
 ---
